@@ -1,5 +1,5 @@
-github.com/RaulSantosCalvo/interview-accountapi v0.1.3 h1:zLgZ0xzhCaL0pJNjylPqYbcSnR+xmGFJD5RrHfI4agg=
-github.com/RaulSantosCalvo/interview-accountapi v0.1.3/go.mod h1:rgDNTGRPXdfczwXd7KPY89YDtqmA0JrXNGntYeX/+LQ=
+github.com/RaulSantosCalvo/interview-accountapi v0.2.1 h1:xgFcm4kbTAuuNSlDwUM+/mWAEpy5blz07W58vTgpkCo=
+github.com/RaulSantosCalvo/interview-accountapi v0.2.1/go.mod h1:rgDNTGRPXdfczwXd7KPY89YDtqmA0JrXNGntYeX/+LQ=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
